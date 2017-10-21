@@ -1,0 +1,33 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Alignment",
+		"Angular 2 Snippets (John Papa)",
+		"Angular Material Snippets",
+		"AngularJS",
+		"AngularJS Snippets",
+		"cdnjs",
+		"Emmet",
+		"HTMLBeautify",
+		"Javascript Beautify",
+		"Material Theme",
+		"Package Control",
+		"Pretty JSON",
+		"SideBarEnhancements",
+		"SideBarTools",
+		"Simple Print Function",
+		"Terminal",
+		"TerminalView",
+		"Theme - Afterglow",
+		"Todo",
+		"Todo.txt Syntax",
+		"ToDone",
+		"TodoReview",
+		"TypeScript"
+	]
+}
